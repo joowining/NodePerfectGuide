@@ -194,3 +194,7 @@ main {
     display: none;
   }
 }
+
+.centered{
+  text-align: center
+}
